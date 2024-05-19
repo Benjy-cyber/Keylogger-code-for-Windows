@@ -6,7 +6,7 @@ Tested on:
 * Windows 10
 * Windows 11
 
-**Check out my youtube tutorial on how to use this script --->** https://youtu.be/HmXnIjEqm0A
+**Check out my youtube tutorial on how to use this script --->** https://www.youtube.com/watch?v=S5haDGGD0XM
 
 For any questions, e-mail me at **savarytech@gmail.com**
 
